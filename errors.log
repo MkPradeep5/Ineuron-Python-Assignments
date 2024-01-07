@@ -1,0 +1,17 @@
+2024-01-07 09:43:44,552 - ERROR - Exception type: ZeroDivisionError, Timestamp: 2024-01-07 09:43:44
+Traceback (most recent call last):
+  File "C:\Users\bmkpr\AppData\Local\Temp\ipykernel_7800\815152782.py", line 14, in main
+    result = 10 / 0  # This will raise an exception for demonstration purposes
+ZeroDivisionError: division by zero
+2024-01-07 09:43:46,660 - ERROR - Exception type: ZeroDivisionError, Timestamp: 2024-01-07 09:43:46
+Traceback (most recent call last):
+  File "C:\Users\bmkpr\AppData\Local\Temp\ipykernel_7800\815152782.py", line 14, in main
+    result = 10 / 0  # This will raise an exception for demonstration purposes
+ZeroDivisionError: division by zero
+2024-01-07 09:46:46,990 - ERROR - Exception type: ZeroDivisionError, Timestamp: 2024-01-07 09:46:46
+Traceback (most recent call last):
+  File "C:\Users\bmkpr\AppData\Local\Temp\ipykernel_7800\631635165.py", line 15, in main
+    result = 10 / 0  # This will raise an exception for demonstration purposes
+ZeroDivisionError: division by zero
+2024-01-07 09:47:18,929 - ERROR - division by zero: a is 2, b value is 0
+2024-01-07 09:47:20,503 - ERROR - division by zero: a is 2, b value is 0
